@@ -1,0 +1,6 @@
+/Users/gf/Projects/cs_calc/cs_calc/bin/Debug/cs_calc.exe
+/Users/gf/Projects/cs_calc/cs_calc/bin/Debug/cs_calc.pdb
+/Users/gf/Projects/cs_calc/cs_calc/obj/x86/Debug/cs_calc.csprojAssemblyReference.cache
+/Users/gf/Projects/cs_calc/cs_calc/obj/x86/Debug/cs_calc.csproj.CoreCompileInputs.cache
+/Users/gf/Projects/cs_calc/cs_calc/obj/x86/Debug/cs_calc.exe
+/Users/gf/Projects/cs_calc/cs_calc/obj/x86/Debug/cs_calc.pdb
